@@ -133,6 +133,7 @@ In current literature, zero-shot and open-vocabulary are used interchangeably, h
 |ICCV'21|[JoEm](https://arxiv.org/abs/2108.06536)|Exploiting a Joint Embedding Space for Generalized Zero-Shot Semantic Segmentation|[Code](https://github.com/cvlab-yonsei/JoEm)|
 |ICCVW'19|[VM](https://ieeexplore.ieee.org/document/9022071)|Zero-Shot Semantic Segmentation via Variational Mapping|N/A|
 |ICCV'21|[PMOSR](https://ieeexplore.ieee.org/document/9709966)|Prototypical Matching and Open Set Rejection for Zero-Shot Semantic Segmentation|N/A|
+|PRL'22|[SM-VCENet](https://arxiv.org/abs/2111.15181)|Zero-Shot Semantic Segmentation via Spatial and Multi-Scale Aware Visual Class Embedding|N/A|
 
 <a id="zsss-nvfs"></a>
 #### Novel Visual Feature Synthesis
